@@ -11,4 +11,8 @@
     <color name="card_subtitle">#88000000</color>
     <color name="card_separator">#1C000000</color>
 
+    <color name="retry_button_stroke">@color/colorPrimary</color>
+    <color name="retry_button_background">@android:color/transparent</color>
+    <color name="retry_button_background_ripple">@color/colorAccent</color>
+
 </resources>

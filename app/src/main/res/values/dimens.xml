@@ -3,4 +3,6 @@
     <dimen name="toolbar_elevation">8dp</dimen>
     <dimen name="grid_list_spacing">3dp</dimen>
 
+    <dimen name="retry_button_padding">3dp</dimen>
+    <dimen name="retry_button_radius">2dp</dimen>
 </resources>
